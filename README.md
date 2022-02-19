@@ -39,9 +39,3 @@ library("psycho")
 
     To get the latest development version, run the following:
 
-Credits
-==========
-You can cite the package as following:
-
-The psycho Package: an Efficient and Publishing-Oriented Workflow for Psychological Science. Journal of Open Source Software, 3(22), 470. https://doi.org/10.21105/joss.00470
-
